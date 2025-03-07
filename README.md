@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">Hi! I'm Kirolles Adel, a dedicated second-year student at Cairo University's Faculty of Computers and Artificial Intelligence, with a strong passion for front-end development and a growing expertise in full-stack development. Over the past 3 years, I've honed my skills through hands-on experience, specializing in C++, Python, HTML, CSS, JavaScript, React, TypeScript, and Tailwind CSS.<br><br>Currently, I'm interning as a full-stack developer at OEC company, where I've expanded my skill set to include Django and Docker. My journey includes earning over 10 certifications and working on a variety of projects, from building a GUI in C++ to developing a full-fledged eCommerce site.<br><br>One of my proudest achievements is enhancing the online presence of Star Union Student Activities with a custom website built using React. Additionally, I’ve led workshops to share my knowledge in web development. I’m always excited to connect and collaborate on innovative projects!</p>
+<p align="left">Hi! I'm Kirolles Adel, I’m a Computer Science student at Cairo University with an insatiable curiosity for technology and a deep passion for problem-solving. My journey into coding started at the age of 15, when I wrote my first lines of code out of sheer fascination. What began as curiosity quickly turned into an obsession, pushing me to dive deeper into web development and software engineering.
+Over the years, I’ve built projects, tackled challenges, and honed my skills by working on real-world applications. Whether it’s React, Django, I enjoy crafting seamless digital experiences and exploring the latest technologies to stay ahead in the industry.
+
+Currently, I serve as the Vice Head of the Web Committee at Star Union, a student activity where I lead and mentor fellow developers. Beyond that, I took on the role of a web development instructor, where I conducted workshops for five months, helping students grasp frontend development concepts. Teaching has reinforced my own understanding while allowing me to give back to the community.</p>
 
 ###
 
